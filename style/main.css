@@ -26,7 +26,7 @@ header .logo {
   margin-left: 5px;
   color: var(--branco);
   font-family: arial black;
-  font-size: 40px;
+  font-size: 50px;
 }
 header nav a {
   text-decoration: none;
@@ -39,10 +39,11 @@ header nav a:hover {
 
 /* filme principal   */
 .filme-principal {
-  font-size: 13px;
+  font-size: 20px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url("../img/enrique-vidal-flores-zsXvRKtsf6Q-unsplash.jpg");
-  height: 400px;
+    url("../img/imgprincipal.jpg");
+  height: 1000px;
+
   background-size: cover;
 
   display: flex;
